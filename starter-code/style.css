@@ -52,6 +52,12 @@ from Unit 1 - 5 below  */
 	.name	{
 		color: #FF0000;
 	}
+	.image {
+		height: 200px;
+		width: 150px;
+		border: 1px solid black;
+		border-radius: 10px;
+	}
 	footer	{
 		background-color: #808080;
 	}
